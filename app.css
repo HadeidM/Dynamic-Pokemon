@@ -2,6 +2,11 @@
  * Author: Hadeid Mirza 
  * Simple css file, used flexbox to center content.
  */
+
+body {
+  background-color: #8928f7;
+}
+
 h1 {
   font-family: 'Oswald', sans-serif;
   text-align: center;
